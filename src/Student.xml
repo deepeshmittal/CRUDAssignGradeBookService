@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <student id="9999">
+  	<name>Dummy Student</name>
+    <workitem itemname="HW">
+    	<percent>30</percent>
+    </workitem>
+  </student>
+  <student id="1234">
+  	<name>Deepesh Mittal</name>
+    <workitem itemname="HW">
+    	<percent>30</percent>
+        <feedback>sdjajdas</feedback>
+        <grades>100</grades>
+    </workitem>
+  </student>
+  <student id="4566">
+  	<name>Mittal Deepesh</name>
+    <workitem itemname="HW">
+        <percent>30</percent>
+        <feedback>vfcvbcvb</feedback>
+        <grades>70</grades>
+    </workitem>
+  </student>
+</students>
